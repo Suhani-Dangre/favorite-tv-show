@@ -3,18 +3,26 @@ body {
     background-repeat: no-repeat;
     background-size: 1500px 1000px;
     text-align: Center;
+    
   }
   p{
     background-color: white;
+    border: 5px solid rgb(0, 132, 255);
   }
   h1{
-  background-image: linear-gradient(to left, rgb(0, 102, 255), rgb(0, 130, 7), rgb(0, 102, 255), rgb(0, 130, 7));
+  background-image: linear-gradient(to left, rgb(0, 132, 255), rgb(0, 130, 7), rgb(0, 132, 255), rgb(0, 130, 7));
   color: white;
+  border: 5px solid rgb(0, 132, 255);
 }
   a{
     background-color: white;
     color: rgb(0, 132, 255);
+    
   }
   h2{
     background-color: white;
+    border: 5px solid rgb(0, 130, 7);
+  }
+  img {
+    border: 5px solid rgb(0, 130, 7);
   }
