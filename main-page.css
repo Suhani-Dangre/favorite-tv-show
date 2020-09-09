@@ -2,7 +2,19 @@ body {
     background-image: url('Tortuga.png');
     background-repeat: no-repeat;
     background-size: 1500px 1000px;
+    text-align: Center;
   }
   p{
+    background-color: white;
+  }
+  h1{
+  background-image: linear-gradient(to left, rgb(0, 102, 255), rgb(0, 130, 7), rgb(0, 102, 255), rgb(0, 130, 7));
+  color: white;
+}
+  a{
+    background-color: white;
+    color: rgb(0, 132, 255);
+  }
+  h2{
     background-color: white;
   }
