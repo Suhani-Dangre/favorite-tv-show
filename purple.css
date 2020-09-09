@@ -1,0 +1,38 @@
+body {
+    background-color: rgb(206, 153, 255);
+    text-align: Center;
+    
+  }
+  p{
+    color: rgb(118, 22, 196);
+  }
+  h1{
+  background-image: linear-gradient(to left, rgb(174, 0, 255), rgb(140, 0, 255), rgb(183, 0, 255),rgb(119, 0, 255));
+  color: white;
+  border: 5px solid rgb(153, 0, 255);
+}
+
+  a:visited {
+    color: rgb(84, 11, 179);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:hover {
+    color: rgb(190, 79, 255);
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  a:active {
+    color: rgb(54, 0, 104);
+    background-color: transparent;
+    text-decoration: underline;
+  }
+
+a{
+    color: rgb(174, 0, 255);
+    
+  }
+  
+  img {
+    border: 5px solid rgb(111, 0, 163);
+  }
