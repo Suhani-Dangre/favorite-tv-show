@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(39, 231, 55);
+    text-align: Center;
+    font-family: arial, helvetica, sans-serif;
+    
+  }
+  p{
+    color: rgb(0, 155, 21);
+  }
+  h1{
+  background-image: linear-gradient(to left, rgb(0, 150, 20), rgb(0, 255, 106), rgb(0, 150, 20),rgb(0, 255, 106));
+  color: rgb(0, 95, 8);
+  border: 5px solid rgb(12, 145, 0);
+}
+
+  a:visited {
+    color: rgb(0, 94, 20);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:hover {
+    color: rgb(10, 190, 34);
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  a:active {
+    color: rgb(0, 54, 5);
+    background-color: transparent;
+    text-decoration: underline;
+  }
+
+a{
+    color: rgb(0, 139, 23);
+    
+  }
+  
+  img {
+    border: 5px solid rgb(0, 163, 8);
+  }
